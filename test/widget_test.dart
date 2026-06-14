@@ -1,7 +1,7 @@
 import 'package:flutter_test/flutter_test.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:zen_task/main.dart';
-import 'package:zen_task/services/audio_handler.dart';
+import 'package:focus_app/main.dart';
+import 'package:focus_app/services/audio_handler.dart';
 
 void main() {
   TestWidgetsFlutterBinding.ensureInitialized();

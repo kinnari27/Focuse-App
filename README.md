@@ -1,4 +1,4 @@
-# zen_task
+# focus_app
 
 A new Flutter project.
 

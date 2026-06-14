@@ -5,10 +5,10 @@
 // 'flutter create' template.
 
 // The application's name. By default this is also the title of the Flutter window.
-PRODUCT_NAME = zen_task
+PRODUCT_NAME = focus_app
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.zentask.zenTask
+PRODUCT_BUNDLE_IDENTIFIER = com.zentask.focusApp
 
 // The copyright displayed in application information
 PRODUCT_COPYRIGHT = Copyright © 2026 com.zentask. All rights reserved.

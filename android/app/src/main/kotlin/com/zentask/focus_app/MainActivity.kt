@@ -1,4 +1,4 @@
-package com.zentask.zen_task
+package com.zentask.focus_app
 
 import io.flutter.embedding.android.FlutterActivity
 
